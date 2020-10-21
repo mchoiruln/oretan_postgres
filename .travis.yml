@@ -1,7 +1,7 @@
 language: node_js
 node_js:
-  - "7"
+  - "12"
 before_script:
-  - npm install mocha
+  - yarn install
 script:
-  - npm test
+  - yarn test
