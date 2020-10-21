@@ -1,3 +1,3 @@
-# oretan_postgres
+# Oretan Postgres
 
 > Berisi kumpulan scripts sql postgresql
