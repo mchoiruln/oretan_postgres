@@ -3,6 +3,6 @@
         "test": "mocha"
     },
     "dependencies": {
-        "mocha": "^10.2.0"
+        "mocha": "^10.4.0"
     }
 }
